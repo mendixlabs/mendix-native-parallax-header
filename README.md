@@ -1,6 +1,6 @@
 [![Apache License](https://img.shields.io/badge/license-Apache%202.0-orange.svg)](http://www.apache.org/licenses/LICENSE-2.0)
-![GitHub release](https://img.shields.io/github/release/JelteMX/mendix-native-parallax-header)
-![GitHub issues](https://img.shields.io/github/issues/JelteMX/mendix-native-parallax-header)
+[![GitHub release](https://img.shields.io/github/release/JelteMX/mendix-native-parallax-header)](https://github.com/JelteMX/mendix-native-parallax-header/releases)
+[![GitHub issues](https://img.shields.io/github/issues/JelteMX/mendix-native-parallax-header)](https://github.com/JelteMX/mendix-native-parallax-header/issues)
 
 # Parallax Header
 
